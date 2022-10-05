@@ -1,0 +1,13 @@
+instruções Utilizadas
+
+Após a criação do repositório no GitHub e a criação do repositório local, entrei na pasta localmente, iniciei o Git Bash 
+e clonei o repositório do GitHub utilizando o link. (git clone [link do repositório])
+
+Adicionei meu arquivo ao Staging Area (git add *)
+
+Commitei a alteração
+Commit -m "Comentario"
+
+Empurrei o arquivo para o GitHub
+git push origin main
+
